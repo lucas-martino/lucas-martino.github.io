@@ -1,6 +1,8 @@
 ---
 title: "Inicio, propósito e tudo mais"
 lang: pt
+image: ../thumbnail/42.jpeg
+date: 2024-10-29
 categories:
   - 42
 ---

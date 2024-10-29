@@ -2,6 +2,7 @@
 title: "Deep Thought"
 lang: pt
 theme: Cosmo
+comments: false
 listing:
   contents: posts
   sort: "date desc"

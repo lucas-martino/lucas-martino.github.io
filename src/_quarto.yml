@@ -4,29 +4,26 @@ project:
 
 website:
   title: "Deep Thought"
-  site-url: https://blog.
+  site-url: https://blog.lucasmartino.com
   description: "A great blog"
-  page-footer: "Copyright (c) 2024, " 
+  #page-footer: "Copyright (c) 2024, " 
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd    
     tools:
-      - icon: twitter
-        href: https://twitter.com
+      # - icon: twitter
+      #   href: https://twitter.com
       - icon: github
         menu:
           - text: Source Code
-            href:  https://code.com
+            href:  https://github.com/lucas-martino/lucas-martino.github.io
           - text: Report a Bug
-            href:  https://bugs.com
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+            href:  https://github.com/lucas-martino/lucas-martino.github.io/issues
+  comments:
+    giscus:
+      repo: lucas-martino/lucas-martino.github.io
 
 execute:
   freeze: auto
