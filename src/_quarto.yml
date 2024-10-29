@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "Deep Thought"
+  site-url: https://blog.
+  description: "A great blog"
+  page-footer: "Copyright (c) 2024, " 
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd    
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://code.com
+          - text: Report a Bug
+            href:  https://bugs.com
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto

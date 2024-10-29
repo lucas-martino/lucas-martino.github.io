@@ -1,0 +1,7 @@
+name: "install uv"
+runs:
+  using: composite
+  steps:
+    - name: install uv
+      uses: astral-sh/setup-uv@v3
+    - run: uv lock --locked

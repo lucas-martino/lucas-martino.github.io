@@ -1,0 +1,8 @@
+---
+title: "Inicio, propósito e tudo mais"
+lang: pt
+categories:
+  - 42
+---
+
+Esse blog será destinado a explorar a questão fundamental da Vida, do Universo, Data Science, Machine Learning, IA, Computação e de Tudo Mais.
