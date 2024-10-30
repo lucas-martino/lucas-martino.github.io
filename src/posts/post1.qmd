@@ -2,6 +2,7 @@
 title: "Inicio, propósito e tudo mais"
 lang: pt
 image: ../thumbnails/42.jpeg
+image-alt: "42"
 date: 2024-10-29
 categories:
   - 42
