@@ -27,7 +27,7 @@
   <category>42</category>
   <guid>https://blog.lucasmartino.com/posts/post1.html</guid>
   <pubDate>Tue, 29 Oct 2024 03:00:00 GMT</pubDate>
-  <media:content url="https://blog.lucasmartino.com/thumbnail/42.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://blog.lucasmartino.com/thumbnails/42.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

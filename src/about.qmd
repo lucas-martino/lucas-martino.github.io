@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "Sobre"
 ---
 
-About this site
+```{=html}
+Esse blog é um site estático gerado usando <a href="https://quarto.org">Quarto</a>, hospedado no <a href="https://pages.github.com">GitHub Pages</a>, utilizando <a href="https://giscus.app">giscus</a> para comentários e os thumbnails são gerados por IA.
+```
