@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Sobre",
     "section": "",
-    "text": "Esse blog é um site estático gerado usando Quarto, hospedado no GitHub Pages, utilizando giscus para comentários e os thumbnails são gerados por IA."
+    "text": "Esse blog é um site estático gerado usando Quarto, hospedado no GitHub Pages, utilizando giscus para comentários e as imagens dos thumbnails são geradas por IA."
   },
   {
     "objectID": "index.html",
